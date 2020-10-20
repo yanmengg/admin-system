@@ -1,0 +1,44 @@
+version: '2'
+services:
+  beam-mysql:
+    build:
+      context: ./db/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+    restart: always
+    container_name: beam-mysql
+    image: beam-mysql
+    ports:
+      - 3306:3306
+    volumes:
+      # 将db中的配置复制到该文件夹下
+      - /home/docker/mysql/conf:/etc/mysql
+      - /home/docker/mysql/log:/var/log/
+      - /home/docker/mysql/data:/var/lib/mysql
+  beam-redis:
+    build:
+      context: ./db/redis
+    ports:
+      - 6379:6379
+    restart: always
+    image: beam-redis
+    container_name: beam-redis
+    volumes:
+      # 将db中的配置复制到该文件夹下
+      - /home/docker/redis/conf/redis.conf:/usr/local/etc/redis/redis.conf
+      - /home/docker/redis/data:/data
+  beam-admin:
+    build:
+      context: ./beam-admin
+    volumes:
+      - /home/beam/beam-admin/beam-admin-logs:/beam-admin/beam-admin-logs
+    restart: always
+    ports:
+      - 8080:8080
+    container_name: beam-admin
+    image: beam-admin
+    depends_on:
+      - beam-mysql
+      - beam-redis
+
+

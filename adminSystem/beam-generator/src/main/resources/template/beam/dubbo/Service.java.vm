@@ -1,0 +1,22 @@
+package ${mainPath}.${package}.api.service;
+import com.baomidou.mybatisplus.extension.service.IService;
+import ${mainPath}.${package}.api.entity.${className};
+
+/**
+ * ${comments}
+ *
+ * @author ${author}
+ * @email ${email}
+ * @date ${datetime}
+ */
+public interface I${className}Service extends IService<${className}> {
+
+
+#foreach($column in $columns)
+#if("frozen" == $column.columnName)
+    void changeFrozen(Long id, Integer frozen);
+#break
+#end
+#end
+
+}

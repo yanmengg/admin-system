@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/beam-admin/beam-admin.iml" filepath="$PROJECT_DIR$/beam-admin/beam-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beam-api/beam-api.iml" filepath="$PROJECT_DIR$/beam-api/beam-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beam-common/beam-common.iml" filepath="$PROJECT_DIR$/beam-common/beam-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beam-dynamic-datasource/beam-dynamic-datasource.iml" filepath="$PROJECT_DIR$/beam-dynamic-datasource/beam-dynamic-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beam-parent.iml" filepath="$PROJECT_DIR$/beam-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beam-quartz/beam-quartz.iml" filepath="$PROJECT_DIR$/beam-quartz/beam-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beam-web/beam-web.iml" filepath="$PROJECT_DIR$/beam-web/beam-web.iml" />
+    </modules>
+  </component>
+</project>

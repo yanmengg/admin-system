@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef7b529c-c28e-48be-9dc0-9c6bd8e25051" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/beam-admin/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/beam-admin/src/main/resources/application-local.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beam-api/src/main/resources/application-local.yml" beforeDir="false" afterPath="$PROJECT_DIR$/beam-api/src/main/resources/application-local.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j5H9qWqT2ZqnHVdBxBBuFYRXdZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.BeamAdminApplication">
+    <configuration name="BeamAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="beam-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hsshy.beam.admin.BeamAdminApplication" />
+      <option name="ACTIVE_PROFILES" value="local" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeamApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="beam-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hsshy.beam.api.BeamApiApplication" />
+      <option name="ACTIVE_PROFILES" value="local" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.BeamAdminApplication" />
+      <item itemvalue="Spring Boot.BeamApiApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef7b529c-c28e-48be-9dc0-9c6bd8e25051" name="Default Changelist" comment="" />
+      <created>1603086883023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603086883023</updated>
+      <workItem from="1603086887802" duration="8538000" />
+      <workItem from="1603161968185" duration="1566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603093554089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603093554089" />
+    <state width="514" height="466" key="DebuggerActiveHint" timestamp="1603094813776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="514" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1603094813776" />
+    <state width="1876" height="293" key="GridCell.Tab.0.bottom" timestamp="1603172791942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603172791942" />
+    <state width="1876" height="293" key="GridCell.Tab.0.center" timestamp="1603172791941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603172791941" />
+    <state width="1876" height="293" key="GridCell.Tab.0.left" timestamp="1603172791941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603172791941" />
+    <state width="1876" height="293" key="GridCell.Tab.0.right" timestamp="1603172791942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603172791942" />
+    <state width="1876" height="293" key="GridCell.Tab.1.bottom" timestamp="1603172791942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603172791942" />
+    <state width="1876" height="293" key="GridCell.Tab.1.center" timestamp="1603172791942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603172791942" />
+    <state width="1876" height="293" key="GridCell.Tab.1.left" timestamp="1603172791942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603172791942" />
+    <state width="1876" height="293" key="GridCell.Tab.1.right" timestamp="1603172791942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603172791942" />
+    <state width="1876" height="293" key="GridCell.Tab.2.bottom" timestamp="1603172791942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603172791942" />
+    <state width="1876" height="293" key="GridCell.Tab.2.center" timestamp="1603172791942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603172791942" />
+    <state width="1876" height="293" key="GridCell.Tab.2.left" timestamp="1603172791942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603172791942" />
+    <state width="1876" height="293" key="GridCell.Tab.2.right" timestamp="1603172791942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603172791942" />
+    <state x="661" y="243" width="663" height="626" key="find.popup" timestamp="1603094870338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="243" width="663" height="626" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603094870338" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beam-admin/src/main/java/com/hsshy/beam/admin/common/shiro/RedisShiroSessionDAO.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beam-admin/src/main/java/com/hsshy/beam/admin/common/shiro/RedisShiroSessionDAO.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beam-admin/src/main/java/com/hsshy/beam/admin/common/shiro/RedisShiroSessionDAO.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beam-admin/src/main/java/com/hsshy/beam/admin/common/shiro/RedisShiroSessionDAO.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beam-admin/src/main/java/com/hsshy/beam/admin/common/shiro/RedisShiroSessionDAO.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/beam-admin/src/main/java/com/hsshy/beam/admin/common/shiro/RedisShiroSessionDAO.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
